@@ -1,4 +1,9 @@
 %% EN2106
+
+studentName = 'xxxxxxx'; 
+studentEmail = 'xxxxxx@cardiff.ac.uk';   
+studentID = 000000;        
+
 %% Exploring motion-capture data of a tennis player making 5 racket swings.
 
 clear
